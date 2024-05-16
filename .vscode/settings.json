@@ -1,0 +1,15 @@
+{
+	"pylint.args": [
+		"--disable=C0103",
+		"--disable=C0111",
+		"--disable=C0200",
+		"--disable=C0301",
+		"--disable=R0902",
+		"--disable=R0911",
+		"--disable=R0912",
+		"--disable=R0913",
+		"--disable=R0914",
+		"--disable=R0915"
+	],
+	"flake8.args": ["--ignore=E501"]
+}

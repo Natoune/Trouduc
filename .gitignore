@@ -28,11 +28,8 @@ logs/
 client/dist/
 
 # Node modules
-client/node_modules/
+node_modules/
 
 # SSL
 cert.pem
 key.pem
-
-## VS Code ##
-.vscode/
