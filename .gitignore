@@ -1,0 +1,38 @@
+## SERVER ##
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+.conda
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Logs
+logs/
+
+## CLIENT ##
+
+# Build files
+client/dist/
+
+# Node modules
+client/node_modules/
+
+# SSL
+cert.pem
+key.pem
+
+## VS Code ##
+.vscode/
